@@ -1,0 +1,19 @@
+{
+  "name": "node_fb_demo",
+  "version": "1.0.0",
+  "description": "fb login /post feed demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Poonam Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "qs": "^6.5.0",
+    "request": "^2.81.0"
+  },
+  "engine": "node 0.6.x"
+}
